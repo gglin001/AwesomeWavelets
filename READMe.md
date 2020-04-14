@@ -8,6 +8,12 @@ using pywt
 
 `omg*.py`
 
+one demo(src in `omg02.py`):
+
+![demo](./img/demo.png)
+
+left: coeffs, right: raw signal vs processed signal
+
 ## Resources
 
 Links:
